@@ -3,7 +3,7 @@
 [当研究室](https://tsakailab.github.io/)では，スパースモデリングと深層学習の融合技術を医工学に応用しています。
 
 ## 基礎勉強会（since 2011）
-- [2022](seminar/2022.md) / [2021](https://sites.google.com/site/tsakailab/lecture)
+- 2023(TBA) / [2022](seminar/2022.md) / [2021](https://sites.google.com/site/tsakailab/lecture)
 
 勉強会では，高次元空間の不思議な性質に基づくスパースモデリングの基礎を学びます。
 確率統計・線形代数・微積分が織りなす理論を紹介し，Pythonを用いた数値計算の例で理解を促します。
